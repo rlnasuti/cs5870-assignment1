@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.10)  2 OCT 2023 20:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.10)  2 OCT 2023 20:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -348,20 +348,20 @@ Package pdftex.def Info: accuracy_comparison.png  used on input line 205.
 <resnet50_tiny_imagenet_overfitting.png, id=16, 341.275pt x 215.80624pt>
 File: resnet50_tiny_imagenet_overfitting.png Graphic file (type png)
 <use resnet50_tiny_imagenet_overfitting.png>
-Package pdftex.def Info: resnet50_tiny_imagenet_overfitting.png  used on input line 222.
+Package pdftex.def Info: resnet50_tiny_imagenet_overfitting.png  used on input line 223.
 (pdftex.def)             Requested size: 191.51622pt x 121.10751pt.
 <resnet50_tiny_imagenet_training_graph.png, id=17, 343.2825pt x 217.81375pt>
 File: resnet50_tiny_imagenet_training_graph.png Graphic file (type png)
 <use resnet50_tiny_imagenet_training_graph.png>
-Package pdftex.def Info: resnet50_tiny_imagenet_training_graph.png  used on input line 228.
+Package pdftex.def Info: resnet50_tiny_imagenet_training_graph.png  used on input line 229.
 (pdftex.def)             Requested size: 191.51622pt x 121.5162pt.
 
-Underfull \hbox (badness 1629) in paragraph at lines 239--240
+Underfull \hbox (badness 1629) in paragraph at lines 240--241
 []\OT1/ptm/m/n/10 Another note-wor-thy de-vel-op-ment is the \OT1/ptm/b/n/10 Con-trastive
  []
 
 
-Underfull \hbox (badness 1009) in paragraph at lines 239--240
+Underfull \hbox (badness 1009) in paragraph at lines 240--241
 \OT1/ptm/m/n/10 and gen-er-a-tive method-olo-gies like SimVLM (Yu et al.
  []
 
@@ -380,9 +380,7 @@ Underfull \hbox (badness 1107) in paragraph at lines 25--28
 \OT1/ptm/m/n/10 ers are image-text foun-da-tion mod-els.  \OT1/ptm/m/it/10 arXiv preprint
  []
 
-) [4
-
-] (./assignment1.aux) ) 
+) [4] (./assignment1.aux) ) 
 Here is how much of TeX's memory you used:
  13956 strings out of 476025
  288114 string characters out of 5790017
@@ -392,7 +390,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  84i,9n,89p,906b,777s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on assignment1.pdf (4 pages, 346132 bytes).
+Output written on assignment1.pdf (4 pages, 346270 bytes).
 PDF statistics:
  43 PDF objects out of 1000 (max. 8388607)
  24 compressed objects within 1 object stream

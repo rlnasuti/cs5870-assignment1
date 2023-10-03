@@ -208,15 +208,16 @@ In this section, we present the performance of our models on the respective data
 \end{figure}
 
 \section{Observations}
+Building upon the results presented in the previous section, this section aims to provide insights and draw observations from the performance metrics of various models across different datasets.
 
-\begin{enumerate}
+\begin{itemize}
     \item The 1-layer CNN was sufficient for MNIST but not for Tiny ImageNet, indicating a necessity for deeper architectures for more complex datasets.
     \item The LeNet-5 model performed surprisingly well on Tiny ImageNet, given its relatively simple architecture.
     \item VGG-16 was able to learn MNIST from scratch but struggled with CIFAR-10 and Tiny ImageNet, which was unexpected given the complexity of the network.
     \item Fine-tuning VGG-16 and ResNet-50 on MNIST and CIFAR-10 resulted in early overfitting, followed by a rapid increase in validation performance before plateauing, potentially exhibiting the "Grokking" phenomenon as described in "GROKKING: Generalization Beyond Overfitting on Small Algorithmic Datasets." \cite{power2022grokking}
     \item ResNet-50 demonstrated overfitting when used alone, which is indicated by a disparity in validation and training data performance (see Figure \ref{fig:overfittinggraph}). Introducing dropout layers as a form of regularization mitigated overfitting but resulted in "spiky" validation performance, as can be seen in Figure \ref{fig:spikygraph}, warranting further investigation.
     \item Freezing layers during the training of ResNet-50 seemed to slow or prevent the network from learning. Initially, unfreezing only 4 layers, then 25, and finally all of them was attempted. Unfreezing the entire model yielded the best performance, suggesting that perhaps due to the "skip architecture" of ResNet-50, freezing layers might not be the most effective approach for this particular architecture.
-\end{enumerate}
+\end{itemize}
 \begin{figure}
     \centering
     \includegraphics[width=0.8\linewidth]{resnet50_tiny_imagenet_overfitting.png}

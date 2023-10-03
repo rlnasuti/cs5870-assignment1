@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex assignment1"] 1696299683 "assignment1.aux" "assignment1.bbl" "assignment1" 1696299703 0
+["bibtex assignment1"] 1696300374 "assignment1.aux" "assignment1.bbl" "assignment1" 1696300481 0
   "./aaai23.bib" 1696296220 3573 5c10dd312a4f38cd47a148078508113e ""
   "./aaai23.bst" 1696286980 30203 4d39232d90d42e4ff308566bef9adc10 ""
-  "assignment1.aux" 1696299702 1064 329698fba51d6e7907d1be4b8242f0f9 "pdflatex"
+  "assignment1.aux" 1696300481 1064 e5d4583c4f559456377b6afdb58def56 "pdflatex"
   (generated)
   "assignment1.bbl"
   "assignment1.blg"
   (rewritten before read)
-["pdflatex"] 1696299702 "/Users/robertnasuti/Desktop/Dev/cs5870-assignment1/paper/assignment1.tex" "assignment1.pdf" "assignment1" 1696299703 0
-  "/Users/robertnasuti/Desktop/Dev/cs5870-assignment1/paper/assignment1.tex" 1696299701 16944 dd81deb08f38025f8bda8bc465f51384 ""
+["pdflatex"] 1696300480 "/Users/robertnasuti/Desktop/Dev/cs5870-assignment1/paper/assignment1.tex" "assignment1.pdf" "assignment1" 1696300481 0
+  "/Users/robertnasuti/Desktop/Dev/cs5870-assignment1/paper/assignment1.tex" 1696300480 17135 07712b26c50d538f3d046b39a1e63348 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1136768653 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -117,9 +117,9 @@
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
   "aaai23.sty" 1696286980 8731 c3b936377a9c34f707e0f1ebd6b7c32b ""
   "accuracy_comparison.png" 1696298126 171396 61f2d5421108fc6581bba565a70f5b61 ""
-  "assignment1.aux" 1696299702 1064 329698fba51d6e7907d1be4b8242f0f9 "pdflatex"
-  "assignment1.bbl" 1696299683 1892 dd76a827f7eaffaffaf060f0188f05a9 "bibtex assignment1"
-  "assignment1.tex" 1696299701 16944 dd81deb08f38025f8bda8bc465f51384 ""
+  "assignment1.aux" 1696300481 1064 e5d4583c4f559456377b6afdb58def56 "pdflatex"
+  "assignment1.bbl" 1696300374 1892 dd76a827f7eaffaffaf060f0188f05a9 "bibtex assignment1"
+  "assignment1.tex" 1696300480 17135 07712b26c50d538f3d046b39a1e63348 ""
   "resnet50_tiny_imagenet_overfitting.png" 1696294172 65749 87a6fc97e231ef58ac81b04ecc964d88 ""
   "resnet50_tiny_imagenet_training_graph.png" 1696294063 99083 8b2ae4e3c310ca750839bc8120fa06b2 ""
   (generated)
