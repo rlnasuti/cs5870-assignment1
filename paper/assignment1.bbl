@@ -1,0 +1,29 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+
+\bibitem[{ChatGPT(2023)}]{ChatGPT2023}
+ChatGPT. 2023.
+\newblock Conversations and Assistance in Formatting, Editing, and LaTeX.
+\newblock Available at OpenAI.
+
+\bibitem[{Chen et~al.(2023)Chen, Liang, Huang, Real, Wang, Liu, Pham, Dong, Luong, Hsieh et~al.}]{chen2023symbolic}
+Chen, X.; Liang, C.; Huang, D.; Real, E.; Wang, K.; Liu, Y.; Pham, H.; Dong, X.; Luong, T.; Hsieh, C.-J.; et~al. 2023.
+\newblock Symbolic discovery of optimization algorithms.
+\newblock \emph{arXiv preprint arXiv:2302.06675}.
+
+\bibitem[{Power et~al.(2022)Power, Burda, Edwards, Babuschkin, and Misra}]{power2022grokking}
+Power, A.; Burda, Y.; Edwards, H.; Babuschkin, I.; and Misra, V. 2022.
+\newblock Grokking: Generalization beyond overfitting on small algorithmic datasets.
+\newblock \emph{arXiv preprint arXiv:2201.02177}.
+
+\bibitem[{Wortsman et~al.(2022)Wortsman, Ilharco, Gadre, Roelofs, Gontijo-Lopes, Morcos, Namkoong, Farhadi, Carmon, Kornblith, and Schmidt}]{pmlr-v162-wortsman22a}
+Wortsman, M.; Ilharco, G.; Gadre, S.~Y.; Roelofs, R.; Gontijo-Lopes, R.; Morcos, A.~S.; Namkoong, H.; Farhadi, A.; Carmon, Y.; Kornblith, S.; and Schmidt, L. 2022.
+\newblock Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time.
+\newblock In Chaudhuri, K.; Jegelka, S.; Song, L.; Szepesvari, C.; Niu, G.; and Sabato, S., eds., \emph{Proceedings of the 39th International Conference on Machine Learning}, volume 162 of \emph{Proceedings of Machine Learning Research}, 23965--23998. PMLR.
+
+\bibitem[{Yu et~al.(2022)Yu, Wang, Vasudevan, Yeung, Seyedhosseini, and Wu}]{yu2022coca}
+Yu, J.; Wang, Z.; Vasudevan, V.; Yeung, L.; Seyedhosseini, M.; and Wu, Y. 2022.
+\newblock Coca: Contrastive captioners are image-text foundation models.
+\newblock \emph{arXiv preprint arXiv:2205.01917}.
+
+\end{thebibliography}
